@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "whatever",
-    "path": "whatever.yyp",
+    "name": "spirtes",
+    "path": "folders/System/spirtes.yy",
   },
 }

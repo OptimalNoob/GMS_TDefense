@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "whatever",
-    "path": "whatever.yyp",
+    "name": "sprites",
+    "path": "folders/Towers/sprites.yy",
   },
 }

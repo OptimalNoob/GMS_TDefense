@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "whatever",
-    "path": "whatever.yyp",
+    "name": "textures",
+    "path": "folders/Tiles/textures.yy",
   },
 }

@@ -43,7 +43,7 @@
     "TileSerialiseData": [],
   },
   "parent": {
-    "name": "whatever",
-    "path": "whatever.yyp",
+    "name": "sets",
+    "path": "folders/Tiles/sets.yy",
   },
 }

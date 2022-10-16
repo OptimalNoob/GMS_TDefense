@@ -6,7 +6,7 @@ grid_y = (ceil(mouse_y / GRID) * GRID) - (GRID / 2);
 if(placing){
 	window_set_cursor(cr_handpoint);
 	draw_set_alpha(0.5);
-	draw_sprite(sTower_basic, 0, grid_x, grid_y);
+	draw_sprite(object_get_sprite(available_towers[sel_tower]), 0, grid_x, grid_y);
 	draw_set_alpha(1.0);
 } else {
 	window_set_cursor(cr_arrow);

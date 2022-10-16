@@ -1,0 +1,1 @@
+instance_create_layer_once(0, 0, "objects", CameraMain);

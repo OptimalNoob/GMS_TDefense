@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPlacer",
+  "name": "oTower_radial",
   "spriteId": {
-    "name": "sPlacer",
-    "path": "sprites/sPlacer/sPlacer.yy",
+    "name": "sTower_radial",
+    "path": "sprites/sTower_radial/sTower_radial.yy",
   },
   "solid": false,
   "visible": true,
@@ -24,13 +24,11 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "whatever",
-    "path": "whatever.yyp",
+    "name": "objects",
+    "path": "folders/Towers/objects.yy",
   },
 }
